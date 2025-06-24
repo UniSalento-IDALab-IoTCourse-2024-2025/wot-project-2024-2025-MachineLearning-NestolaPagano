@@ -1,0 +1,7 @@
+numpy~=1.26.4
+pandas~=1.5.3
+seaborn~=0.13.2
+joblib~=1.2.0
+matplotlib~=3.7.1
+scikit-learn~=1.6.1
+imbalanced-learn~=0.13.0
